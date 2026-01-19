@@ -1,0 +1,1050 @@
+[
+  {
+    "id": "1",
+    "name": "非凡资源",
+    "type": 0,
+    "logo": "",
+    "desc": "非凡资源苹果CMS源",
+    "nsfw": false,
+    "status": true,
+    "api": "http://api.ffzyapi.com/api.php/provide/vod/from/ffm3u8/at/xml/",
+    "extra": {
+      "jiexiUrl": "",
+      "gfw": false,
+      "searchLimit": 20,
+      "category": ""
+    }
+  },
+  {
+    "id": "2",
+    "name": "量子资源",
+    "type": 0,
+    "logo": "",
+    "desc": "量子资源苹果CMS源",
+    "nsfw": false,
+    "status": true,
+    "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/at/xml/",
+    "extra": {
+      "jiexiUrl": "",
+      "gfw": false,
+      "searchLimit": 20,
+      "category": ""
+    }
+  },
+  {
+    "id": "3",
+    "name": "新浪资源",
+    "type": 0,
+    "logo": "",
+    "desc": "新浪资源苹果CMS源",
+    "nsfw": false,
+    "status": true,
+    "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8/at/xml/",
+    "extra": {
+      "jiexiUrl": "",
+      "gfw": false,
+      "searchLimit": 20,
+      "category": ""
+    }
+  },
+  {
+    "id": "4",
+    "name": "光速资源",
+    "type": 0,
+    "logo": "",
+    "desc": "光速资源苹果CMS源",
+    "nsfw": false,
+    "status": true,
+    "api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/at/xml/",
+    "extra": {
+      "jiexiUrl": "",
+      "gfw": false,
+      "searchLimit": 20,
+      "category": ""
+    }
+  },
+  {
+    "id": "5",
+    "name": "卧龙资源",
+    "type": 0,
+    "logo": "",
+    "desc": "卧龙资源苹果CMS源",
+    "nsfw": false,
+    "status": true,
+    "api": "https://collect.wolongzy.cc/api.php/provide/vod/at/xml/?ac=list",
+    "extra": {
+      "jiexiUrl": "",
+      "gfw": false,
+      "searchLimit": 20,
+      "category": ""
+    }
+  },
+  {
+    "id": "6",
+    "name": "高清资源",
+    "type": 0,
+    "logo": "",
+    "desc": "高清资源苹果CMS源",
+    "nsfw": false,
+    "status": true,
+    "api": "https://api.yzzy-api.com/inc/api_mac10.php",
+    "extra": {
+      "jiexiUrl": "",
+      "gfw": false,
+      "searchLimit": 20,
+      "category": ""
+    }
+  },
+  {
+    "id": "7",
+    "name": "无尽资源",
+    "type": 0,
+    "logo": "",
+    "desc": "无尽资源苹果CMS源",
+    "nsfw": false,
+    "status": true,
+    "api": "https://api.wujinapi.me/api.php/provide/vod/from/wjm3u8/at/xml/",
+    "extra": {
+      "jiexiUrl": "",
+      "gfw": false,
+      "searchLimit": 20,
+      "category": ""
+    }
+  },
+  {
+    "id": "8",
+    "name": "红牛资源",
+    "type": 0,
+    "logo": "",
+    "desc": "红牛资源苹果CMS源",
+    "nsfw": false,
+    "status": true,
+    "api": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/at/xml/",
+    "extra": {
+      "jiexiUrl": "",
+      "gfw": false,
+      "searchLimit": 20,
+      "category": ""
+    }
+  },
+  {
+    "id": "9",
+    "name": "百度资源",
+    "type": 0,
+    "logo": "",
+    "desc": "百度资源苹果CMS源",
+    "nsfw": false,
+    "status": true,
+    "api": "https://api.apibdzy.com/api.php/provide/vod/from/dbm3u8/at/xml/",
+    "extra": {
+      "jiexiUrl": "",
+      "gfw": false,
+      "searchLimit": 20,
+      "category": ""
+    }
+  },
+  {
+    "id": "10",
+    "name": "樱花资源",
+    "type": 0,
+    "logo": "",
+    "desc": "樱花资源苹果CMS源",
+    "nsfw": false,
+    "status": true,
+    "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/?ac=lis",
+    "extra": {
+      "jiexiUrl": "",
+      "gfw": false,
+      "searchLimit": 20,
+      "category": ""
+    }
+  },
+  {
+    "id": "11",
+    "name": "茅台资源",
+    "type": 0,
+    "logo": "",
+    "desc": "茅台资源苹果CMS源",
+    "nsfw": false,
+    "status": true,
+    "api": "https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8/at/xml/",
+    "extra": {
+      "jiexiUrl": "",
+      "gfw": false,
+      "searchLimit": 20,
+      "category": ""
+    }
+  },
+  {
+    "id": "12",
+    "name": "金鹰资源",
+    "type": 0,
+    "logo": "",
+    "desc": "金鹰资源苹果CMS源",
+    "nsfw": false,
+    "status": true,
+    "api": "https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/xml/",
+    "extra": {
+      "jiexiUrl": "",
+      "gfw": false,
+      "searchLimit": 20,
+      "category": ""
+    }
+  },
+  {
+    "id": "13",
+    "name": "极速资源",
+    "type": 0,
+    "logo": "",
+    "desc": "极速资源苹果CMS源",
+    "nsfw": false,
+    "status": true,
+    "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8/at/xml",
+    "extra": {
+      "jiexiUrl": "",
+      "gfw": false,
+      "searchLimit": 20,
+      "category": ""
+    }
+  },
+  {
+    "id": "14",
+    "name": "牛牛资源",
+    "type": 0,
+    "logo": "",
+    "desc": "牛牛资源苹果CMS源",
+    "nsfw": false,
+    "status": true,
+    "api": "https://api.niuniuzy.me/api.php/provide/vod/from/nnm3u8/at/xml",
+    "extra": {
+      "jiexiUrl": "",
+      "gfw": false,
+      "searchLimit": 20,
+      "category": ""
+    }
+  },
+  {
+    "id": "15",
+    "name": "如意资源",
+    "type": 0,
+    "logo": "",
+    "desc": "如意资源苹果CMS源",
+    "nsfw": false,
+    "status": true,
+    "api": "https://cj.rycjapi.com/api.php/provide/vod/from/rym3u8/at/xml/",
+    "extra": {
+      "jiexiUrl": "",
+      "gfw": false,
+      "searchLimit": 20,
+      "category": ""
+    }
+  },
+  {
+    "id": "16",
+    "name": "豆瓣资源",
+    "type": 0,
+    "logo": "",
+    "desc": "豆瓣资源苹果CMS源",
+    "nsfw": false,
+    "status": true,
+    "api": "https://caiji.dbzy5.com/api.php/provide/vod/from/dbm3u8/at/xml/",
+    "extra": {
+      "jiexiUrl": "",
+      "gfw": false,
+      "searchLimit": 20,
+      "category": ""
+    }
+  },
+  {
+    "id": "17",
+    "name": "虎牙资源",
+    "type": 0,
+    "logo": "",
+    "desc": "虎牙资源苹果CMS源",
+    "nsfw": false,
+    "status": true,
+    "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8/at/xml/",
+    "extra": {
+      "jiexiUrl": "",
+      "gfw": false,
+      "searchLimit": 20,
+      "category": ""
+    }
+  },
+  {
+    "id": "18",
+    "name": "金蝉官源",
+    "type": 0,
+    "logo": "",
+    "desc": "金蝉官源苹果CMS源",
+    "nsfw": false,
+    "status": true,
+    "api": "https://zy.jinchancaiji.com/api.php/provide/vod/?ac=list",
+    "extra": {
+      "jiexiUrl": "",
+      "gfw": false,
+      "searchLimit": 20,
+      "category": ""
+    }
+  },
+  {
+    "id": "19",
+    "name": "速播资源",
+    "type": 0,
+    "logo": "",
+    "desc": "速播资源苹果CMS源",
+    "nsfw": false,
+    "status": true,
+    "api": "https://subocj.com/api.php/provide/vod/from/subm3u8/at/xml",
+    "extra": {
+      "jiexiUrl": "",
+      "gfw": false,
+      "searchLimit": 20,
+      "category": ""
+    }
+  },
+  {
+    "id": "20",
+    "name": "最大资源",
+    "type": 0,
+    "logo": "",
+    "desc": "最大资源苹果CMS源",
+    "nsfw": false,
+    "status": true,
+    "api": "https://api.zuidapi.com/api.php/provide/vod/from/zuidam3u8/at/xml/",
+    "extra": {
+      "jiexiUrl": "",
+      "gfw": false,
+      "searchLimit": 20,
+      "category": ""
+    }
+  },
+  {
+    "id": "21",
+    "name": "闪电资源",
+    "type": 0,
+    "logo": "",
+    "desc": "闪电资源苹果CMS源",
+    "nsfw": false,
+    "status": true,
+    "api": "https://xsd.sdzyapi.com/api.php/provide/vod/from/sdm3u8/at/xml/",
+    "extra": {
+      "jiexiUrl": "",
+      "gfw": false,
+      "searchLimit": 20,
+      "category": ""
+    }
+  },
+  {
+    "id": "22",
+    "name": "暴风资源",
+    "type": 0,
+    "logo": "",
+    "desc": "暴风资源苹果CMS源",
+    "nsfw": false,
+    "status": true,
+    "api": "https://bfzyapi.com/api.php/provide/vod/at/xml/",
+    "extra": {
+      "jiexiUrl": "",
+      "gfw": false,
+      "searchLimit": 20,
+      "category": ""
+    }
+  },
+  {
+    "id": "23",
+    "name": "爱奇艺资源",
+    "type": 0,
+    "logo": "",
+    "desc": "爱奇艺资源苹果CMS源",
+    "nsfw": false,
+    "status": true,
+    "api": "https://www.iqiyizyapi.com/api.php/provide/vod/at/xml/",
+    "extra": {
+      "jiexiUrl": "",
+      "gfw": false,
+      "searchLimit": 20,
+      "category": ""
+    }
+  },
+  {
+    "id": "24",
+    "name": "索尼资源",
+    "type": 0,
+    "logo": "",
+    "desc": "索尼资源苹果CMS源",
+    "nsfw": false,
+    "status": true,
+    "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/at/xml/",
+    "extra": {
+      "jiexiUrl": "",
+      "gfw": false,
+      "searchLimit": 20,
+      "category": ""
+    }
+  },
+  {
+    "id": "25",
+    "name": "豪华资源",
+    "type": 0,
+    "logo": "",
+    "desc": "豪华资源苹果CMS源",
+    "nsfw": false,
+    "status": true,
+    "api": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/at/xml",
+    "extra": {
+      "jiexiUrl": "",
+      "gfw": false,
+      "searchLimit": 20,
+      "category": ""
+    }
+  },
+  {
+    "id": "26",
+    "name": "魔都资源",
+    "type": 0,
+    "logo": "",
+    "desc": "魔都资源苹果CMS源",
+    "nsfw": false,
+    "status": true,
+    "api": "https://www.mdzyapi.com/api.php/provide/vod/at/xml/",
+    "extra": {
+      "jiexiUrl": "",
+      "gfw": false,
+      "searchLimit": 20,
+      "category": ""
+    }
+  },
+  {
+    "id": "27",
+    "name": "猫眼资源",
+    "type": 0,
+    "logo": "",
+    "desc": "猫眼资源苹果CMS源",
+    "nsfw": false,
+    "status": true,
+    "api": "https://api.maoyanapi.top/api.php/provide/vod/at/xml/",
+    "extra": {
+      "jiexiUrl": "",
+      "gfw": false,
+      "searchLimit": 20,
+      "category": ""
+    }
+  },
+  {
+    "id": "28",
+    "name": "电影天堂资源",
+    "type": 0,
+    "logo": "",
+    "desc": "电影天堂资源苹果CMS源",
+    "nsfw": false,
+    "status": true,
+    "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/xml/",
+    "extra": {
+      "jiexiUrl": "",
+      "gfw": false,
+      "searchLimit": 20,
+      "category": ""
+    }
+  },
+  {
+    "id": "29",
+    "name": "4K影视",
+    "type": 1,
+    "logo": "",
+    "desc": "4K影视JS扩展源",
+    "nsfw": false,
+    "status": true,
+    "api": "https://www.4kvm.net/",
+    "extra": {
+      "jiexiUrl": "",
+      "gfw": false,
+      "searchLimit": 10,
+      "template": "t4",
+      "sniffer": {
+        "mode": 0,
+        "timeout": 10000,
+        "customRegex": "",
+        "exclude": "",
+        "script": "",
+        "initScript": ""
+      }
+    }
+  },
+  {
+    "id": "30",
+    "name": "555影视",
+    "type": 1,
+    "logo": "",
+    "desc": "555影视JS扩展源",
+    "nsfw": false,
+    "status": true,
+    "api": "https://www.55f5a5e3m9.shop/index/home.html",
+    "extra": {
+      "jiexiUrl": "",
+      "gfw": false,
+      "searchLimit": 10,
+      "template": "t4",
+      "sniffer": {
+        "mode": 0,
+        "timeout": 10000,
+        "customRegex": "",
+        "exclude": "",
+        "script": "",
+        "initScript": ""
+      }
+    }
+  },
+  {
+    "id": "31",
+    "name": "雪糕TV",
+    "type": 1,
+    "logo": "",
+    "desc": "雪糕TV JS扩展源",
+    "nsfw": false,
+    "status": true,
+    "api": "https://tv.pgitv.com/",
+    "extra": {
+      "jiexiUrl": "",
+      "gfw": false,
+      "searchLimit": 10,
+      "template": "t4",
+      "sniffer": {
+        "mode": 0,
+        "timeout": 10000,
+        "customRegex": "",
+        "exclude": "",
+        "script": "",
+        "initScript": ""
+      }
+    }
+  },
+  {
+    "id": "32",
+    "name": "看片狂人",
+    "type": 1,
+    "logo": "",
+    "desc": "看片狂人JS扩展源",
+    "nsfw": false,
+    "status": true,
+    "api": "https://kpkuang.sbs/",
+    "extra": {
+      "jiexiUrl": "",
+      "gfw": false,
+      "searchLimit": 10,
+      "template": "t4",
+      "sniffer": {
+        "mode": 0,
+        "timeout": 10000,
+        "customRegex": "",
+        "exclude": "",
+        "script": "",
+        "initScript": ""
+      }
+    }
+  },
+  {
+    "id": "33",
+    "name": "努努影视",
+    "type": 1,
+    "logo": "",
+    "desc": "努努影视JS扩展源",
+    "nsfw": false,
+    "status": true,
+    "api": "https://nunuju.cc/",
+    "extra": {
+      "jiexiUrl": "",
+      "gfw": false,
+      "searchLimit": 10,
+      "template": "t4",
+      "sniffer": {
+        "mode": 0,
+        "timeout": 10000,
+        "customRegex": "",
+        "exclude": "",
+        "script": "",
+        "initScript": ""
+      }
+    }
+  },
+  {
+    "id": "34",
+    "name": "厂长资源",
+    "type": 1,
+    "logo": "",
+    "desc": "厂长资源JS扩展源",
+    "nsfw": false,
+    "status": true,
+    "api": "https://www.czzymovie.com/",
+    "extra": {
+      "jiexiUrl": "",
+      "gfw": false,
+      "searchLimit": 10,
+      "template": "t4",
+      "sniffer": {
+        "mode": 0,
+        "timeout": 10000,
+        "customRegex": "",
+        "exclude": "",
+        "script": "",
+        "initScript": ""
+      }
+    }
+  },
+  {
+    "id": "35",
+    "name": "乌云影视",
+    "type": 1,
+    "logo": "",
+    "desc": "乌云影视JS扩展源",
+    "nsfw": false,
+    "status": true,
+    "api": "https://wooyun.tv/",
+    "extra": {
+      "jiexiUrl": "",
+      "gfw": false,
+      "searchLimit": 10,
+      "template": "t4",
+      "sniffer": {
+        "mode": 0,
+        "timeout": 10000,
+        "customRegex": "",
+        "exclude": "",
+        "script": "",
+        "initScript": ""
+      }
+    }
+  },
+  {
+    "id": "36",
+    "name": "低端影视",
+    "type": 1,
+    "logo": "",
+    "desc": "低端影视JS扩展源",
+    "nsfw": false,
+    "status": true,
+    "api": "https://www.ddys.run/",
+    "extra": {
+      "jiexiUrl": "",
+      "gfw": false,
+      "searchLimit": 10,
+      "template": "t4",
+      "sniffer": {
+        "mode": 0,
+        "timeout": 10000,
+        "customRegex": "",
+        "exclude": "",
+        "script": "",
+        "initScript": ""
+      }
+    }
+  },
+  {
+    "id": "37",
+    "name": "大米星球",
+    "type": 1,
+    "logo": "",
+    "desc": "大米星球JS扩展源",
+    "nsfw": false,
+    "status": true,
+    "api": "https://dmys3.com/",
+    "extra": {
+      "jiexiUrl": "",
+      "gfw": false,
+      "searchLimit": 10,
+      "template": "t4",
+      "sniffer": {
+        "mode": 0,
+        "timeout": 10000,
+        "customRegex": "",
+        "exclude": "",
+        "script": "",
+        "initScript": ""
+      }
+    }
+  },
+  {
+    "id": "38",
+    "name": "网飞猫",
+    "type": 1,
+    "logo": "",
+    "desc": "网飞猫JS扩展源",
+    "nsfw": false,
+    "status": true,
+    "api": "https://www.ncat24.com/",
+    "extra": {
+      "jiexiUrl": "",
+      "gfw": false,
+      "searchLimit": 10,
+      "template": "t4",
+      "sniffer": {
+        "mode": 0,
+        "timeout": 10000,
+        "customRegex": "",
+        "exclude": "",
+        "script": "",
+        "initScript": ""
+      }
+    }
+  },
+  {
+    "id": "39",
+    "name": "MXVOD",
+    "type": 1,
+    "logo": "",
+    "desc": "MXVOD JS扩展源",
+    "nsfw": false,
+    "status": true,
+    "api": "https://mxvod.com/",
+    "extra": {
+      "jiexiUrl": "",
+      "gfw": false,
+      "searchLimit": 10,
+      "template": "t4",
+      "sniffer": {
+        "mode": 0,
+        "timeout": 10000,
+        "customRegex": "",
+        "exclude": "",
+        "script": "",
+        "initScript": ""
+      }
+    }
+  },
+  {
+    "id": "40",
+    "name": "一起看",
+    "type": 1,
+    "logo": "",
+    "desc": "一起看JS扩展源",
+    "nsfw": false,
+    "status": true,
+    "api": "https://yqs11.app/pc/",
+    "extra": {
+      "jiexiUrl": "",
+      "gfw": false,
+      "searchLimit": 10,
+      "template": "t4",
+      "sniffer": {
+        "mode": 0,
+        "timeout": 10000,
+        "customRegex": "",
+        "exclude": "",
+        "script": "",
+        "initScript": ""
+      }
+    }
+  },
+  {
+    "id": "41",
+    "name": "秒看电影",
+    "type": 1,
+    "logo": "",
+    "desc": "秒看电影JS扩展源",
+    "nsfw": false,
+    "status": true,
+    "api": "https://miaokan.cc/",
+    "extra": {
+      "jiexiUrl": "",
+      "gfw": false,
+      "searchLimit": 10,
+      "template": "t4",
+      "sniffer": {
+        "mode": 0,
+        "timeout": 10000,
+        "customRegex": "",
+        "exclude": "",
+        "script": "",
+        "initScript": ""
+      }
+    }
+  },
+  {
+    "id": "42",
+    "name": "爱追剧",
+    "type": 1,
+    "logo": "",
+    "desc": "爱追剧JS扩展源",
+    "nsfw": false,
+    "status": true,
+    "api": "https://www.aizju.com/",
+    "extra": {
+      "jiexiUrl": "",
+      "gfw": false,
+      "searchLimit": 10,
+      "template": "t4",
+      "sniffer": {
+        "mode": 0,
+        "timeout": 10000,
+        "customRegex": "",
+        "exclude": "",
+        "script": "",
+        "initScript": ""
+      }
+    }
+  },
+  {
+    "id": "43",
+    "name": "影视工厂",
+    "type": 1,
+    "logo": "",
+    "desc": "影视工厂JS扩展源",
+    "nsfw": false,
+    "status": true,
+    "api": "https://yingshi.co/",
+    "extra": {
+      "jiexiUrl": "",
+      "gfw": false,
+      "searchLimit": 10,
+      "template": "t4",
+      "sniffer": {
+        "mode": 0,
+        "timeout": 10000,
+        "customRegex": "",
+        "exclude": "",
+        "script": "",
+        "initScript": ""
+      }
+    }
+  },
+  {
+    "id": "44",
+    "name": "注视影视",
+    "type": 1,
+    "logo": "",
+    "desc": "注视影视JS扩展源",
+    "nsfw": false,
+    "status": true,
+    "api": "https://gaze.run/",
+    "extra": {
+      "jiexiUrl": "",
+      "gfw": false,
+      "searchLimit": 10,
+      "template": "t4",
+      "sniffer": {
+        "mode": 0,
+        "timeout": 10000,
+        "customRegex": "",
+        "exclude": "",
+        "script": "",
+        "initScript": ""
+      }
+    }
+  },
+  {
+    "id": "45",
+    "name": "光速影院",
+    "type": 1,
+    "logo": "",
+    "desc": "光速影院JS扩展源",
+    "nsfw": false,
+    "status": true,
+    "api": "https://www.yingshiso.link/",
+    "extra": {
+      "jiexiUrl": "",
+      "gfw": false,
+      "searchLimit": 10,
+      "template": "t4",
+      "sniffer": {
+        "mode": 0,
+        "timeout": 10000,
+        "customRegex": "",
+        "exclude": "",
+        "script": "",
+        "initScript": ""
+      }
+    }
+  },
+  {
+    "id": "46",
+    "name": "毒舌电影",
+    "type": 1,
+    "logo": "",
+    "desc": "毒舌电影JS扩展源",
+    "nsfw": false,
+    "status": true,
+    "api": "https://www.dushe05.com/",
+    "extra": {
+      "jiexiUrl": "",
+      "gfw": false,
+      "searchLimit": 10,
+      "template": "t4",
+      "sniffer": {
+        "mode": 0,
+        "timeout": 10000,
+        "customRegex": "",
+        "exclude": "",
+        "script": "",
+        "initScript": ""
+      }
+    }
+  },
+  {
+    "id": "47",
+    "name": "FREEOK",
+    "type": 1,
+    "logo": "",
+    "desc": "FREEOK JS扩展源",
+    "nsfw": false,
+    "status": true,
+    "api": "https://www.freeokk.pro/",
+    "extra": {
+      "jiexiUrl": "",
+      "gfw": false,
+      "searchLimit": 10,
+      "template": "t4",
+      "sniffer": {
+        "mode": 0,
+        "timeout": 10000,
+        "customRegex": "",
+        "exclude": "",
+        "script": "",
+        "initScript": ""
+      }
+    }
+  },
+  {
+    "id": "48",
+    "name": "柯南影视",
+    "type": 1,
+    "logo": "",
+    "desc": "柯南影视JS扩展源",
+    "nsfw": false,
+    "status": true,
+    "api": "https://www.knvod.com/",
+    "extra": {
+      "jiexiUrl": "",
+      "gfw": false,
+      "searchLimit": 10,
+      "template": "t4",
+      "sniffer": {
+        "mode": 0,
+        "timeout": 10000,
+        "customRegex": "",
+        "exclude": "",
+        "script": "",
+        "initScript": ""
+      }
+    }
+  },
+  {
+    "id": "49",
+    "name": "茶杯狐",
+    "type": 1,
+    "logo": "",
+    "desc": "茶杯狐JS扩展源",
+    "nsfw": false,
+    "status": true,
+    "api": "https://www.cupfox.ai/",
+    "extra": {
+      "jiexiUrl": "",
+      "gfw": false,
+      "searchLimit": 10,
+      "template": "t4",
+      "sniffer": {
+        "mode": 0,
+        "timeout": 10000,
+        "customRegex": "",
+        "exclude": "",
+        "script": "",
+        "initScript": ""
+      }
+    }
+  },
+  {
+    "id": "50",
+    "name": "电影先生",
+    "type": 1,
+    "logo": "",
+    "desc": "电影先生JS扩展源",
+    "nsfw": false,
+    "status": true,
+    "api": "https://dyxs39.com/",
+    "extra": {
+      "jiexiUrl": "",
+      "gfw": false,
+      "searchLimit": 10,
+      "template": "t4",
+      "sniffer": {
+        "mode": 0,
+        "timeout": 10000,
+        "customRegex": "",
+        "exclude": "",
+        "script": "",
+        "initScript": ""
+      }
+    }
+  },
+  {
+    "id": "51",
+    "name": "奈飞影院",
+    "type": 1,
+    "logo": "",
+    "desc": "奈飞影院JS扩展源",
+    "nsfw": false,
+    "status": true,
+    "api": "https://www.naifei1.com/",
+    "extra": {
+      "jiexiUrl": "",
+      "gfw": false,
+      "searchLimit": 10,
+      "template": "t4",
+      "sniffer": {
+        "mode": 0,
+        "timeout": 10000,
+        "customRegex": "",
+        "exclude": "",
+        "script": "",
+        "initScript": ""
+      }
+    }
+  },
+  {
+    "id": "52",
+    "name": "影视控",
+    "type": 1,
+    "logo": "",
+    "desc": "影视控JS扩展源",
+    "nsfw": false,
+    "status": true,
+    "api": "https://www.yingshikong5.com/",
+    "extra": {
+      "jiexiUrl": "",
+      "gfw": false,
+      "searchLimit": 10,
+      "template": "t4",
+      "sniffer": {
+        "mode": 0,
+        "timeout": 10000,
+        "customRegex": "",
+        "exclude": "",
+        "script": "",
+        "initScript": ""
+      }
+    }
+  },
+  {
+    "id": "53",
+    "name": "真不卡影院",
+    "type": 1,
+    "logo": "",
+    "desc": "真不卡影院JS扩展源",
+    "nsfw": false,
+    "status": true,
+    "api": "https://www.zhenbuka34.com/",
+    "extra": {
+      "jiexiUrl": "",
+      "gfw": false,
+      "searchLimit": 10,
+      "template": "t4",
+      "sniffer": {
+        "mode": 0,
+        "timeout": 10000,
+        "customRegex": "",
+        "exclude": "",
+        "script": "",
+        "initScript": ""
+      }
+    }
+  }
+]
